@@ -13,8 +13,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/suvajitghosh2024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suvajitghosh2024/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/suvajitghosh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="suvajitghosh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/suvajitghosh344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="suvajitghosh344" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/suvajitghosh344/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="suvajitghosh344/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/suvajitghosh344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="suvajitghosh344" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/suvajitg3g94/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="suvajitg3g94/" height="30" width="40" /></a>
 </p>
 
